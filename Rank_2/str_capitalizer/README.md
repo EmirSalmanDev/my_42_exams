@@ -1,3 +1,6 @@
+## Subject
+
+```
 Assignment name  : str_capitalizer
 Expected files   : str_capitalizer.c
 Allowed functions: write
@@ -25,3 +28,4 @@ __second Test A Little Bit   Moar Complex$
    But... This Is Not That Complex$
      Okay, This Is The Last 1239809147801 But Not    The Least    T$
 $>
+```
